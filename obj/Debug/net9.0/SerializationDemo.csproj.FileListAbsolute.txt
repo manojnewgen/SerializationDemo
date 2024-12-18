@@ -1,0 +1,15 @@
+C:\DotnetProjects\SerializationDemo\bin\Debug\net9.0\SerializationDemo.exe
+C:\DotnetProjects\SerializationDemo\bin\Debug\net9.0\SerializationDemo.deps.json
+C:\DotnetProjects\SerializationDemo\bin\Debug\net9.0\SerializationDemo.runtimeconfig.json
+C:\DotnetProjects\SerializationDemo\bin\Debug\net9.0\SerializationDemo.dll
+C:\DotnetProjects\SerializationDemo\bin\Debug\net9.0\SerializationDemo.pdb
+C:\DotnetProjects\SerializationDemo\obj\Debug\net9.0\SerializationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetProjects\SerializationDemo\obj\Debug\net9.0\SerializationDemo.AssemblyInfoInputs.cache
+C:\DotnetProjects\SerializationDemo\obj\Debug\net9.0\SerializationDemo.AssemblyInfo.cs
+C:\DotnetProjects\SerializationDemo\obj\Debug\net9.0\SerializationDemo.csproj.CoreCompileInputs.cache
+C:\DotnetProjects\SerializationDemo\obj\Debug\net9.0\SerializationDemo.sourcelink.json
+C:\DotnetProjects\SerializationDemo\obj\Debug\net9.0\SerializationDemo.dll
+C:\DotnetProjects\SerializationDemo\obj\Debug\net9.0\refint\SerializationDemo.dll
+C:\DotnetProjects\SerializationDemo\obj\Debug\net9.0\SerializationDemo.pdb
+C:\DotnetProjects\SerializationDemo\obj\Debug\net9.0\SerializationDemo.genruntimeconfig.cache
+C:\DotnetProjects\SerializationDemo\obj\Debug\net9.0\ref\SerializationDemo.dll
